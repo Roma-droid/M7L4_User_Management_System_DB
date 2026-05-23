@@ -42,4 +42,13 @@ pip install pytest
 ```bash
 pytest
 ```
+
+Чтобы посмотреть отчёт html вот что нужно сделать:
+1.Склонировать репо
+2:
+```bash
+python -m http.server 8000
+```
+3.Прейдите по ссылке http://localhost:8000/test_report.html
 ## Автор
+Roma-droid
