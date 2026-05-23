@@ -50,5 +50,6 @@ pytest
 python -m http.server 8000
 ```
 3.Прейдите по ссылке http://localhost:8000/test_report.html
+3.a Прейдите по ссылке http://localhost:8000/htmlcov/index.html
 ## Автор
 Roma-droid
